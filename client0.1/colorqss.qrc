@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bin/FileColorQSS/Blue.qss</file>
+        <file>bin/FileColorQSS/Green.qss</file>
+        <file>bin/FileColorQSS/Orange.qss</file>
+        <file>bin/FileColorQSS/Pink.qss</file>
+        <file>bin/FileColorQSS/Red.qss</file>
+        <file>bin/FileColorQSS/Yellow.qss</file>
+    </qresource>
+</RCC>
