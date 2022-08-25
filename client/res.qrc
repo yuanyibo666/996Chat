@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>backgroud0.jpg</file>
+        <file>backgroud1.jpg</file>
+        <file>backgroud2.jpg</file>
+        <file>01.ico</file>
+        <file>02.ico</file>
+        <file>Save.ico</file>
+        <file>trash.ico</file>
+    </qresource>
+</RCC>
